@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6430a5a-b68c-4c60-b08c-d277201d7c5a" name="Changes" comment="ExamenJunioUD7">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1EtiquetasColoridas/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2ImprimirPagina/ReiniciarActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2ImprimirPagina/SalirActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2ImprimirPagina/decrementarActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2ImprimirPagina/incrementarActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2ImprimirPagina/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P4ConectaCuatro/P4ConectaCuatro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1EtiquetasColoridas/P1EtiquetasColoridas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P2ImprimirPagina/P2ImprimirPaginaFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +49,7 @@
     "Application.Main.executor": "Run",
     "Application.P2ImprimirPagina.main.executor": "Run",
     "Application.P4ConectaCuatro.executor": "Run",
+    "Application.P4ConectaCuatro.main.executor": "Run",
     "Application.main (1).executor": "Run",
     "Application.main (2).executor": "Run",
     "Application.main (3).executor": "Run",
@@ -76,7 +69,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.P4ConectaCuatro.main">
+  <component name="RunManager" selected="Application.main">
     <configuration name="P2ImprimirPagina.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P2ImprimirPagina.main" />
       <module name="ExamenJunioUD7" />
@@ -147,10 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.P2ImprimirPagina.main" />
         <item itemvalue="Application.P4ConectaCuatro.main" />
         <item itemvalue="Application.P4ConectaCuatro" />
-        <item itemvalue="Application.P2ImprimirPagina.main" />
-        <item itemvalue="Application.main" />
         <item itemvalue="Application.main (4)" />
       </list>
     </recent_temporary>
@@ -171,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718361978990</updated>
-      <workItem from="1718361980054" duration="6318000" />
+      <workItem from="1718361980054" duration="6708000" />
     </task>
     <task id="LOCAL-00001" summary="ExamenJunioUD7">
       <option name="closed" value="true" />
@@ -189,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718362118892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ExamenJunioUD7">
+      <option name="closed" value="true" />
+      <created>1718369386304</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718369386304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
